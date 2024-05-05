@@ -55,7 +55,7 @@ nav {
 h1 {
   font-size: 3rem;
   margin-bottom: 1rem;
-  color: #1C1678;
+  color: white;
 }
 
 .nav-h1 {
@@ -64,9 +64,14 @@ h1 {
   color: #F3F0CA;
 }
 
+.i-header {
+  font-size: 3rem;
+  color: whitesmoke;
+}
+
 i {
   font-size: 3rem;
-  color: #F3F0CA;
+  color: navy;
 }
 
 div {
@@ -90,7 +95,7 @@ div {
   width: 40rem;
   border: 1px solid #eee;
   padding: 1rem;
-  background-color: #9e9445;
+  background-color: #203162;
   color: #fff;
   text-align: center;
   border-radius: 5px;
@@ -121,15 +126,16 @@ hr {
   outline: none;
   border-radius: 3px;
   cursor: pointer;
-  box-shadow: 1px 1px 1px lightblue;
+  box-shadow: 1px 1px 1px rgb(0, 55, 73);
 }
 
 button.subtract {
-  background-color: #583d22;
+  background-color: aliceblue;
 }
 
 button.reset {
-  background-color: #583d22;
+  background-color: aliceblue;
+  color: navy;
 }
 
 button.add {
